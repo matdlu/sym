@@ -1,7 +1,7 @@
 # sym (symmetric encryption tool)
 
 ## About
-Really just a very simple, quick and dirty encryption tool to encrypt a bunch of files. Do not use it.
+Really just a very simple, quick and dirty encryption tool to encrypt a bunch of files. Use it at your own risk. However I use it daily without issues.
 
 ## Building
 To build: (You need to have qbs installed)
